@@ -12,6 +12,6 @@ I am doing this to learn C++ by utilising it in an actual project, I also do hav
 *  ~Get PortAudio to on WAV files (PCM input) and have ascii working on that too~
 *  Apply FFT to audio inputs to be able to map out the frequency (using ascii on console)
 *  Make an additive oscillator (with frequency, amplitude, waveform type)
-*  try to make a GUI using SFML
+*  try to make a GUI using SFML (just a simple gui to allow for user control of features)
 *  (this is a challenge) *Use OpenGL for the audio visualisation to make it look cool*
-*  
+
